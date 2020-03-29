@@ -1,2 +1,3 @@
 - Moni from 🇮🇳 ([NotMoni](https://github.com/NotMoni))
-- MoniJS from 🇺🇸 [MoniJS](https://github.com/MoniJS)
+- MoniJS from 🇺🇸 ([MoniJS](https://github.com/MoniJS))
+- serivesmejia from 🇲🇽 ([serivesmejia](https://github.com/serivesmejia))
