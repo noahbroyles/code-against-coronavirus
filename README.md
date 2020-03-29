@@ -19,7 +19,7 @@ You can spread the message everywhere you can. You can:
 
 
 - [yohix/corona](https://github.com/yohix/corona) - 🦠 COVID-19 Tracker - Mobile App
-- [COVID-19 Data Repo](https://github.com/CSSEGISandData/COVID-19)
+- [COVID-19 Data Repo](https://github.com/CSSEGISandData/COVID-19) - 🦠 COVID-19 Data
 
 ### Supporters
 
