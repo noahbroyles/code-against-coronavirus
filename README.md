@@ -17,10 +17,13 @@ You can spread the message everywhere you can. You can:
 
 ### Repos related to COVID-19
 
+
 - [yohix/corona](https://github.com/yohix/corona) - 🦠 COVID-19 Tracker - Mobile App
+- [COVID-19 Data Repo](https://github.com/CSSEGISandData/COVID-19)
 
 ### Supporters
 
 - Moni from 🇮🇳 ([NotMoni](https://github.com/NotMoni))
 - MoniJS from 🇺🇸 [MoniJS](https://github.com/MoniJS)
+- serivesmejia from 🇲🇽 ([serivesmejia](https://github.com/serivesmejia))
 - Yohix from 🇮🇳 ([yohix](https://github.com/yohix))
