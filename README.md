@@ -17,9 +17,10 @@ You can spread the message everywhere you can. You can:
 
 ### Repos related to COVID-19
 
-- 
+- [COVID-19 Data Repo](https://github.com/CSSEGISandData/COVID-19)
 
 ### Supporters
 
 - Moni from 🇮🇳 ([NotMoni](https://github.com/NotMoni))
-- MoniJS from 🇺🇸 [MoniJS](https://github.com/MoniJS)
+- MoniJS from 🇺🇸 ([MoniJS](https://github.com/MoniJS))
+- serivesmejia from 🇲🇽 ([serivesmejia](https://github.com/serivesmejia))
