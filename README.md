@@ -9,7 +9,7 @@ The disease causes respiratory illness (like the flu) with symptoms such as a co
 You can spread the message everywhere you can. You can:
 
 -   Star and share this repo on social platforms with **#CodeAgainstCOVID**.
--   Add a folder with your username in ["together" folder](https://github.com/NotMoni/code-against-coronavirus/together).
+-   Add a folder with your username in ["together" folder](/together).
 -   Write a piece of code that prints "Code Against Coronavirus" (in any language you wish).
 - Add a link to repo's related to COVID-19.
 -   Create a pull request.
@@ -17,12 +17,13 @@ You can spread the message everywhere you can. You can:
 
 ### Repos related to COVID-19
 
-- 
+
+- [yohix/corona](https://github.com/yohix/corona) - 🦠 COVID-19 Tracker - Mobile App
 - [COVID-19 Data Repo](https://github.com/CSSEGISandData/COVID-19)
 
 ### Supporters
 
 - Moni from 🇮🇳 ([NotMoni](https://github.com/NotMoni))
-- MoniJS from 🇺🇸 ([MoniJS](https://github.com/MoniJS))
-- 
+- MoniJS from 🇺🇸 [MoniJS](https://github.com/MoniJS)
 - serivesmejia from 🇲🇽 ([serivesmejia](https://github.com/serivesmejia))
+- Yohix from 🇮🇳 ([yohix](https://github.com/yohix))
