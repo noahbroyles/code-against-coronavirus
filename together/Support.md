@@ -2,3 +2,4 @@
 - MoniJS from 🇺🇸 [MoniJS](https://github.com/MoniJS)
 - Yohix from 🇮🇳 ([yohix](https://github.com/yohix))
 - serivesmejia from 🇲🇽 ([serivesmejia](https://github.com/serivesmejia))
+- Noah from 🇺🇸 ([noahbroyles](https://github.com/noahbroyles))
